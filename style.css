@@ -1,0 +1,41 @@
+
+.recipe_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+* {
+    background-color: rgb(48, 51, 51);
+    color: rgb(238, 219, 191);
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#recipe_list {
+    list-style-type: armenian;
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+.ingredients {
+    list-style-type: square;
+}
+
+.steps {
+    list-style-type: lower-roman;
+
+}
